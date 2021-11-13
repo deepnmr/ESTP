@@ -1,0 +1,25 @@
+=======
+estp
+=======
+
+What is estp?
+----------------
+
+estp is a program for CEST and DEST. When used with the
+numpy, scipy, and matplotlib packages, estp provides a robust interpreted
+environment for processing and analysing CEST and DEST data.
+
+What can estp do?
+--------------------
+
+estp has the ability to fit the CEST and the DEST data.
+
+
+Citing estp
+--------------
+
+The article describing estp is still in preparation. For the time being
+please cite estp as: 
+
+M.G. Carneiro, J.G. Reddy, and D. Lee
+
