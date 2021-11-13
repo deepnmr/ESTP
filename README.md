@@ -36,4 +36,17 @@ $ cd examples
 This contains all.
 ------------------------------------
 
-Note that proc_base.py and leastbound.py are copied from nmrglue (https://www.nmrglue.com/) written by Dr.Jonathan J. Helmus
+Note that proc_base.py and leastbound.py are copied from nmrglue (https://www.nmrglue.com/) written by Dr.Jonathan J. Helmus.
+Note that the program was inspired by Dr. Adam Mazur's code ShereKhan
+Note that Dr. Marta G Carneiro wrote no exchange portion and output part of linear prediction of cest profile.
+
+Please cite 
+1. Marta G Carneiro, Jithender G Reddy, Christian Griesinger, Donghan Lee
+
+Speeding-up exchange-mediated saturation transfer experiments by Fourier transform
+J Biomol NMR 2015 Nov;63(3):237-44. doi: 10.1007/s10858-015-9985-9.
+
+2. To be published.
+
+
+
