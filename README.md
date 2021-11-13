@@ -32,8 +32,7 @@ $ cd examples
 % python ESTP.py
 
 ------------------------------------
-**guiestp1.0.zip**
-This contains all.
+**guiestp1.0.zip** contains all.
 ------------------------------------
 
 Note that proc_base.py and leastbound.py are copied from nmrglue (https://www.nmrglue.com/) written by Dr.Jonathan J. Helmus.
